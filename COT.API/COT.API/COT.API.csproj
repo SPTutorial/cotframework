@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Azure.Containers.Tools.Targets" Version="1.11.1" />
+    <PackageReference Include="MySql.Data" Version="8.0.28" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="COT.DAL">
+      <HintPath>..\..\COT.DAL\COT.DAL\COT.DAL\bin\Debug\netcoreapp3.1\COT.DAL.dll</HintPath>
+    </Reference>
+    <Reference Include="COT.Logger">
+      <HintPath>..\..\COT.Logger\bin\Debug\netcoreapp3.1\COT.Logger.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+
+</Project>

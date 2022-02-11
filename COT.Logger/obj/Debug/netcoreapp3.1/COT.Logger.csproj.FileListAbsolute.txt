@@ -1,0 +1,10 @@
+D:\Office\COTFramework\COT.API\COT.Logger\bin\Debug\netcoreapp3.1\COT.Logger.deps.json
+D:\Office\COTFramework\COT.API\COT.Logger\bin\Debug\netcoreapp3.1\COT.Logger.dll
+D:\Office\COTFramework\COT.API\COT.Logger\bin\Debug\netcoreapp3.1\COT.Logger.pdb
+D:\Office\COTFramework\COT.API\COT.Logger\obj\Debug\netcoreapp3.1\COT.Logger.csproj.AssemblyReference.cache
+D:\Office\COTFramework\COT.API\COT.Logger\obj\Debug\netcoreapp3.1\COT.Logger.GeneratedMSBuildEditorConfig.editorconfig
+D:\Office\COTFramework\COT.API\COT.Logger\obj\Debug\netcoreapp3.1\COT.Logger.AssemblyInfoInputs.cache
+D:\Office\COTFramework\COT.API\COT.Logger\obj\Debug\netcoreapp3.1\COT.Logger.AssemblyInfo.cs
+D:\Office\COTFramework\COT.API\COT.Logger\obj\Debug\netcoreapp3.1\COT.Logger.csproj.CoreCompileInputs.cache
+D:\Office\COTFramework\COT.API\COT.Logger\obj\Debug\netcoreapp3.1\COT.Logger.dll
+D:\Office\COTFramework\COT.API\COT.Logger\obj\Debug\netcoreapp3.1\COT.Logger.pdb

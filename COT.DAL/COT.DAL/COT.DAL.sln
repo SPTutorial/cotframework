@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COT.DAL", "COT.DAL\COT.DAL.csproj", "{D9E99489-8A1E-4FC7-B24B-3F35FE2D4398}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestDAL", "TestDAL\TestDAL.csproj", "{560FEF5F-CD5B-4306-B85E-2E4D6A78D4A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9E99489-8A1E-4FC7-B24B-3F35FE2D4398}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9E99489-8A1E-4FC7-B24B-3F35FE2D4398}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9E99489-8A1E-4FC7-B24B-3F35FE2D4398}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9E99489-8A1E-4FC7-B24B-3F35FE2D4398}.Release|Any CPU.Build.0 = Release|Any CPU
+		{560FEF5F-CD5B-4306-B85E-2E4D6A78D4A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{560FEF5F-CD5B-4306-B85E-2E4D6A78D4A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{560FEF5F-CD5B-4306-B85E-2E4D6A78D4A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{560FEF5F-CD5B-4306-B85E-2E4D6A78D4A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {514EE35F-7189-487E-BE70-AF1EA89F6198}
+	EndGlobalSection
+EndGlobal

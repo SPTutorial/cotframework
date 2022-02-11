@@ -1,0 +1,10 @@
+D:\Office\COTFramework\COT.DAL\COT.DAL\COT.DAL\bin\Debug\netcoreapp3.1\COT.DAL.deps.json
+D:\Office\COTFramework\COT.DAL\COT.DAL\COT.DAL\bin\Debug\netcoreapp3.1\COT.DAL.dll
+D:\Office\COTFramework\COT.DAL\COT.DAL\COT.DAL\bin\Debug\netcoreapp3.1\COT.DAL.pdb
+D:\Office\COTFramework\COT.DAL\COT.DAL\COT.DAL\obj\Debug\netcoreapp3.1\COT.DAL.csproj.AssemblyReference.cache
+D:\Office\COTFramework\COT.DAL\COT.DAL\COT.DAL\obj\Debug\netcoreapp3.1\COT.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Office\COTFramework\COT.DAL\COT.DAL\COT.DAL\obj\Debug\netcoreapp3.1\COT.DAL.AssemblyInfoInputs.cache
+D:\Office\COTFramework\COT.DAL\COT.DAL\COT.DAL\obj\Debug\netcoreapp3.1\COT.DAL.AssemblyInfo.cs
+D:\Office\COTFramework\COT.DAL\COT.DAL\COT.DAL\obj\Debug\netcoreapp3.1\COT.DAL.csproj.CoreCompileInputs.cache
+D:\Office\COTFramework\COT.DAL\COT.DAL\COT.DAL\obj\Debug\netcoreapp3.1\COT.DAL.dll
+D:\Office\COTFramework\COT.DAL\COT.DAL\COT.DAL\obj\Debug\netcoreapp3.1\COT.DAL.pdb
